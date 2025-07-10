@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GuthWilliam
-- 👀 I’m interested in .Net, Architecture, Clean code, Crypto, Machine learning
-- 🌱 I’m currently learning Clean Architecture/ Web app (Angular)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .Net, Architecture, Clean code, MAUI
+- 🌱 I’m currently learning Clean Architecture/ Web app (Angular, Vuejs)
 - 📫 How to reach me :
 -  guth.william@gmail.com
 -  https://www.linkedin.com/in/williamguth/
